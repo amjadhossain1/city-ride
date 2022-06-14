@@ -1,0 +1,29 @@
+#logo{
+    text-align: left;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.log-out-btn{
+    margin: 0px;
+    padding: 4px;
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+}
+.header{
+    background : transparent;
+}
+.header nav a{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.header nav a:hover{
+    background-color: rgba(0, 0, 0, 0.509);
+    border-radius: 5px;
+}
